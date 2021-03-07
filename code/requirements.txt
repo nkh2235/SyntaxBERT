@@ -1,0 +1,8 @@
+tensorboard
+scikit-learn
+seqeval
+sentencepiece 
+sacremoses 
+regex
+boto3 
+stanza
